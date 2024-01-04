@@ -18,3 +18,26 @@
     display: flex;
     margin-left: -70px;
 }
+#plant{
+    text-align: justify;
+    margin: 30px 50px 5px ;
+    padding-right: 500px;
+}
+.start{
+    background-image: url('imgs/download\ \(7\).jpg');
+    background-repeat:no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 50px 0px 50px 0px;
+}
+#button{
+    text-align: justify;
+    margin-left: 50px;
+    margin-top: 20px;
+    padding: 7px 15px;
+    border-radius: 8px;
+    background-color: green;
+    background-origin: padding-box;
+    border-color: green;
+    box-shadow: 5px 5px 10px green, 5px 5px 30px ;
+}
